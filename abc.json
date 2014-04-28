@@ -1,0 +1,17 @@
+{
+    "name": "kpm-demo",
+    "comName":"KpmDemo",
+    "version": "1.0",
+    "desc": "",
+    "tag":"kpmtest",
+    "githubName":"kpmTest",
+    "author": {
+        "name": "kpmTest",
+        "email": "kpmTest@abc.com",
+        "page": ""
+    },
+	"flexComboPort":"8080",
+	"reserveServerPort":"8090",
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}

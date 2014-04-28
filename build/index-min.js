@@ -1,0 +1,2 @@
+/*!build time : 2014-04-28 7:08:27 PM*/
+KISSY.add("gallery/kpm-demo/src/index",function(a,b,c){function d(a){var b=this;d.superclass.constructor.call(b,a)}b.all;return a.extend(d,c,{},{ATTRS:{}}),d},{requires:["node","base"]});
