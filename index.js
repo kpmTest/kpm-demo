@@ -18,6 +18,7 @@ KISSY.add(function (S, Node,Base) {
         KpmDemo.superclass.constructor.call(self, comConfig);
 
         console.log('I\'m KPM-DEMO');
+        console.log('v0.1.0');
 
     }
     S.extend(KpmDemo, Base, /** @lends KpmDemo.prototype*/{
